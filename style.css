@@ -73,7 +73,8 @@ body {
     font-size: 3rem;
     font-weight: 800;
     background: linear-gradient(to right, #00c6ff, #0072ff);
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; /* For Safari/Chrome prefix */
+    background-clip: text;         /* Standard property (VS Code warning dur karne ke liye) */
     -webkit-text-fill-color: transparent;
     margin-bottom: 20px;
     letter-spacing: -0.5px;
