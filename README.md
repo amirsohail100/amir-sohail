@@ -1,4 +1,4 @@
-# 🌐 The Horizon Gateway: amir-sohail Core Baseline System
+# 🌐 The Horizon Gateway: amirsohail100 Core Baseline System
 
 Welcome to the root workspace of my primary GitHub project hub. This repository holds immense value as it marks the exact baseline where my open-source software engineering journey began.
 
@@ -9,7 +9,7 @@ Originally started as a local environment test with a simple `index.html` file d
 ## 🤵 Repository Host Details
 
 - **Author Name:** amir
-- **GitHub Alias:** amir-sohail
+- **GitHub Alias:** amirsohail100
 - **Official Author Communication:** amirsoahil10@gmail.com
 - **Project Status:** Production Ready & Operational 🟢
 
@@ -61,12 +61,53 @@ To execute this dynamic workspace interface smoothly on your local computer syst
 
 ---
 
-💡 _Maintained dynamically as a signature milestone. Engineered with passion by amir-sohail._
-📅 Kal Ke Liye Quick Reminder (Commands):
-Kal jab aap refresh mind ke sath apna system open karenge aur files push karenge, toh terminal mein ye simple lines execute kar dena:
+💡 _Maintained dynamically as a signature milestone. Engineered with passion by amirsohail100._
+2️⃣ 🧮 Streamlit Calculator ki Fixed README.md
+Markdown
 
-Bash
-git add .
-git commit -m "docs: finalize comprehensive README documentation and deployment layout"
-git push origin main
-Aaj ka Green Dot celebrate kijiye, aur kal is premium documentation ke sath repository ko ekdam formal look de dete hain! Proud of your progress! 🌟
+# 🧮 Interactive Streamlit Calculator Application
+
+Welcome to the **Streamlit Calculator** repository! This project features a clean, responsive, and dynamic web-based calculator built entirely using Python and the Streamlit framework.
+
+The application is designed to handle standard arithmetic computations through an intuitive user interface, serving as an excellent demonstration of deploying Python scripts into interactive web apps.
+
+---
+
+## 🖥️ Application User Interface Preview
+
+Below is the live execution environment and UI interface of the calculator application from my local development workspace:
+
+<div align="center">
+  <img src="./screenshot.png" alt="Streamlit Calculator UI Preview" width="85%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid #30363d;">
+  <p><i>Streamlit Web Interface — Dynamic Calculator Dashboard</i></p>
+</div>
+
+---
+
+## 🛠️ Features & Core Functionality
+
+- **Arithmetic Execution Engine:** Supports addition, subtraction, multiplication, division, and modulo operations.
+- **Responsive Control Inputs:** Utilizes Streamlit's slider, numerical inputs, or custom button arrays for seamless data ingestion.
+- **Error & Exception Handling:** Built-in validation to prevent system crashes (e.g., handling explicit Division by Zero exceptions).
+- **Real-time Compiling:** Renders output arrays instantly upon value adjustments without manual page refreshes.
+
+---
+
+## 💻 Tech Stack & Dependencies
+
+- **Language:** Python 3.10+
+- **Core Web Framework:** Streamlit
+- **Math Operations:** Standard Python Math Library
+
+---
+
+## 🚀 How to Run the Project Locally
+
+Follow these precise steps to spin up the web dashboard on your local PC machine:
+
+### 1. Clone the Workspace
+
+```bash
+git clone [https://github.com/amirsohail100/your-repository-name.git](https://github.com/amirsohail100/your-repository-name.git)
+cd your-repository-name
+```
