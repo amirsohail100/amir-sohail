@@ -120,6 +120,6 @@ Follow these basic guidelines to pull and launch the development workspace insta
 ### 1. Clone and Enter the Repository
 
 ```bash
-git clone [https://github.com/amirsohail100/Memory_Matrix_Game.git](https://github.com/amirsohail100/Memory_Matrix_Game.git)
-cd Memory_Matrix_Game
+git clone [https://github.com/amirsohail100/amir-sohail.git](https://github.com/amirsohail100/amir-sohail.git)
+cd amir-sohail
 ```
