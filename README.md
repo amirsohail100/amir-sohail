@@ -101,18 +101,6 @@ Below is the live execution environment and UI interface of the calculator appli
 
 ---
 
-## 🚀 How to Run the Project Locally
-
-Follow these precise steps to spin up the web dashboard on your local PC machine:
-
-### 1. Clone the Workspace
-
-## 🚀 How to Run Locally
-
-Follow these basic guidelines to download and execute this game framework locally:
-
-### 1. Clone and Enter the Repository
-
 ## 🚀 How to Run and Test the Beta Locally
 
 Follow these basic guidelines to pull and launch the development workspace instantly:
