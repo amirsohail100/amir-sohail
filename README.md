@@ -113,7 +113,13 @@ Follow these basic guidelines to download and execute this game framework locall
 
 ### 1. Clone and Enter the Repository
 
+## 🚀 How to Run and Test the Beta Locally
+
+Follow these basic guidelines to pull and launch the development workspace instantly:
+
+### 1. Clone and Enter the Repository
+
 ```bash
-git clone [https://github.com/amirsohail100/Catch-the-Square---HD-Edition.git](https://github.com/amirsohail100/Catch-the-Square---HD-Edition.git)
-cd Catch-the-Square---HD-Edition
+git clone [https://github.com/amirsohail100/Memory_Matrix_Game.git](https://github.com/amirsohail100/Memory_Matrix_Game.git)
+cd Memory_Matrix_Game
 ```
