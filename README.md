@@ -107,7 +107,13 @@ Follow these precise steps to spin up the web dashboard on your local PC machine
 
 ### 1. Clone the Workspace
 
+## 🚀 How to Run Locally
+
+Follow these basic guidelines to download and execute this game framework locally:
+
+### 1. Clone and Enter the Repository
+
 ```bash
-git clone [https://github.com/amirsohail100/your-repository-name.git](https://github.com/amirsohail100/your-repository-name.git)
-cd your-repository-name
+git clone [https://github.com/amirsohail100/Catch-the-Square---HD-Edition.git](https://github.com/amirsohail100/Catch-the-Square---HD-Edition.git)
+cd Catch-the-Square---HD-Edition
 ```
